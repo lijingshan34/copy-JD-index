@@ -1,0 +1,9 @@
+*{border: none;margin: 0px;padding: 0px;list-style: none;text-decoration: none;font-style: normal;}
+body{text-align: center;background-color: #f6f6f6;}
+img{border: none;vertical-align: middle;}
+em, i{font-style: normal;}
+a{color: #666;text-decoration: none;}
+a:hover{color: #c81623;}
+/* 自定义字体 */
+@font-face{font-family:iconfont;src:url(../font/iconfont.woff) format('woff')}
+@font-face{font-family:fzzhengheis-el-gbregular;src:url(../font/FZZXHJW.TTF)}
